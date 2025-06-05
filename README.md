@@ -13,10 +13,10 @@ AI Quizzer is a web application that generates multiple-choice quizzes from PDF 
 ## Screenshots
 
 ### Upload Interface
-![Upload Interface](/images/upload-interface.png)
+![Upload Interface](screenshots/upload-interface.png)
 
 ### Quiz Interface
-![Quiz Interface](/images/quiz-interface.png)
+![Quiz Interface](screenshots/quiz-interface.png)
 
 ## Prerequisites
 
