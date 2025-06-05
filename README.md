@@ -13,10 +13,10 @@ AI Quizzer is a web application that generates multiple-choice quizzes from PDF 
 ## Screenshots
 
 ### Upload Interface
-![Upload Interface](aiquizzerScreenshots/Screenshot%202025-06-05%20at%204.50.39%20PM.png)
+![Upload Interface](./aiquizzerScreenshots/Screenshot%202025-06-05%20at%204.50.39%20PM.png)
 
 ### Quiz Interface
-![Quiz Interface](aiquizzerScreenshots/Screenshot%202025-06-05%20at%204.50.59%20PM.png)
+![Quiz Interface](./aiquizzerScreenshots/Screenshot%202025-06-05%20at%204.50.59%20PM.png)
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ AI Quizzer is a web application that generates multiple-choice quizzes from PDF 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/jayrajpamnani/AIQuizzer.git
 cd aiquizzer
 ```
 
